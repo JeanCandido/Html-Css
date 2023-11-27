@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos em HTML5</title>
+</head>
+<body>
+    <h1>Hospedando videos localmente</h1>
+    <p>Este video esta hospedado localmente</p>
+    <video controls width="500" poster="imagens/poster.png" loop muted autoplay>
+        <source src="midia/Meu-Video.mp4" type="video/mp4">
+        <source src="midia/Meu-Video.webm" type="video/webm">
+        <p>Seu navegador não tem compatibilidade com videos</p>
+    </video>
+    
+    <h1>Inserindo videos externos</h1>
+    <p>Este é um video externo</p>
+    <iframe width="500" height="281" src="https://www.youtube.com/embed/MrdCSsl7GEs?si=KCwPFITpSs0sinJ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
