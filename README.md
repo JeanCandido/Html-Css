@@ -3,4 +3,4 @@
 
  Estou apredendo a criar sites e agora vou gerenciar meus repositorios
 
-<a href="https://jeancandido.github.io/Html-Css/Exercicios/d010/">Projeto Android </a>
+<a href="https://jeancandido.github.io/Html-Css/Exercicios/d010-certo/">Projeto Android </a>
