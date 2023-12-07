@@ -5,4 +5,4 @@
 
 <a href="https://jeancandido.github.io/Html-Css/Desafios/d010-certo">Projeto Android </a>
 
-<a href="https://jeancandido.github.io/Html-Css/Desafios/d012">Projeto Cordel</a>
+<a href="https://jeancandido.github.io/projeto-cordel/">Projeto Cordel</a>
