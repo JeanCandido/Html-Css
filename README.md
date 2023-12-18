@@ -11,4 +11,8 @@
 
 <a href="https://jeancandido.github.io/projeto-cordel">Projeto Cordel</a>
 
+<<<<<<< HEAD
 <a href="https://jeancandido.github.io/projeto-social"> Projeto Social</a>
+=======
+<a href="https://jeancandido.github.io/projeto-social">Projeto Social</a>
+>>>>>>> 174078a987ab21c0b2f9d086895734f557a37e40
