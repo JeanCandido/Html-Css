@@ -1,1 +1,1 @@
-Os dados form envidos apreda php para saber o que fazer com eles
+Os dados foram enviados apreda php para saber o que fazer com eles
